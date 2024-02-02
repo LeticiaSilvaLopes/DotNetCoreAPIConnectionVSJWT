@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E3o54jfJBlBfcITcrNf9IFgOAm30ZVOoS+UZD7EJbJPXObGxiLsn3pahBW9sSU32cujPEgC3THRjwoMUuZEDoQ==",
+  "success": true,
+  "projectFilePath": "D:\\Leticia\\Documentos\\Estudos\\Dev.io\\ASP.NET Core Enterprise Applications\\src\\services\\NSE.Pagamentos.API\\NSE.Pagamentos.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\letic\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
